@@ -15,7 +15,7 @@ window.ADAAYE = {
   whatsapp: '',
 
   // Email address that receives orders. Example: 'orders@adaaye.in'
-  email: '',
+  email: 'adaaye.business@gmail.com',
 
   // ---- Payment scanner (UPI) ----
   // Your UPI ID. Example: 'titas@okhdfcbank'
